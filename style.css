@@ -41,6 +41,19 @@ section {
   animation: fade 1s;
 }
 
+.about, .contact-details {
+  background: #111;
+  margin: 20px;
+  border-radius: 15px;
+}
+
+.about p {
+  max-width: 700px;
+  margin: auto;
+  line-height: 1.6;
+  color: #ddd;
+}
+
 .box {
   display: inline-block;
   width: 200px;
